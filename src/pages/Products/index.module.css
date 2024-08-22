@@ -1,0 +1,59 @@
+.fullcontainer {
+    padding: 4rem;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    height: auto;
+}
+
+.box {
+    display: flex;
+    width: 15rem;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(246, 246, 246);
+}
+
+
+
+.content {
+    margin-top: 1rem;
+    padding:1rem
+}
+
+.image {
+    width:100%;
+    height: 15rem;
+    align-self: center;
+
+}
+
+.btn {
+    padding: 0.5rem 5rem;
+    background-color: rgb(67, 233, 192);
+    cursor: pointer;
+    border: none;
+}
+
+.rating {
+    color: rgb(67, 233, 192);
+    font-weight: bold;
+}
+
+.review {
+    font-weight: bold;
+
+}
+
+.page {
+    font-size: 2rem;
+    margin: 3rem 2rem 2rem 2rem;
+    border-bottom: 1px solid aliceblue;
+}

@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  padding-bottom: 0.2rem;
+}
+a:hover{
+  border-bottom:3px solid rgb(67, 233, 192);
+}
+h2{
+  font-size: 1rem;
+}
+h1{
+  font-size: 2rem;
+  color:rgb(67, 233, 192);
+}

@@ -1,0 +1,59 @@
+.container{
+    height: 100%;
+    width: 100%;
+    padding: 3rem;
+}
+
+.box{
+    width: 100%;
+    height: auto;
+    padding: 1rem;
+    border-bottom:1px solid rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+}
+.box img{
+    width: 9rem;
+    height: 7rem;
+}
+.btn {
+    padding: 0.5rem 1rem;
+    background-color: rgb(67, 233, 192);
+    border: none;
+    cursor: pointer;
+}
+.sbtn {
+    padding: 0.1rem 0.4rem;
+    background-color: rgb(67, 233, 192);
+    border: none;
+    cursor: pointer;
+}
+.cartdetail{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 2rem;
+
+}
+.ecartdetail{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cartdetail h2{
+    font-size: 1rem;
+}
+
+.page {
+    color: black;
+    font-size: 2rem;
+    margin: 3rem 2rem 2rem 2rem;
+  
+}
