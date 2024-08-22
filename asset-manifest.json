@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cart-management-using-react-redux-react-router-dom/static/css/main.0e114135.css",
+    "main.js": "/cart-management-using-react-redux-react-router-dom/static/js/main.44a637d4.js",
+    "index.html": "/cart-management-using-react-redux-react-router-dom/index.html",
+    "main.0e114135.css.map": "/cart-management-using-react-redux-react-router-dom/static/css/main.0e114135.css.map",
+    "main.44a637d4.js.map": "/cart-management-using-react-redux-react-router-dom/static/js/main.44a637d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e114135.css",
+    "static/js/main.44a637d4.js"
+  ]
+}
